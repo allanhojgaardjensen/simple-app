@@ -2,4 +2,5 @@
 ---
 svc_port: 80
 app_port: 80
-hello_msg: stranger
+hello_msg: strange love
+ns: sddcuser116
